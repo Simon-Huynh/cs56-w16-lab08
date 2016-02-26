@@ -27,6 +27,12 @@
       <artifactId>heroku-jdbc</artifactId>
       <version>0.1.1</version>
     </dependency>
+    <!-- New dependency for jscience -->
+    <dependency> 
+      <groupId>org.jscience</groupId>
+      <artifactId>jscience</artifactId>
+      <version>4.3.1</version>      
+    </dependency> 
   </dependencies>
   <build>
     <plugins>
